@@ -47,7 +47,7 @@ const Auth = () => {
     <div className="min-h-screen flex items-center justify-center bg-gradient-hero py-12 px-4">
       <Card className="w-full max-w-md">
         <CardHeader>
-          <CardTitle className="text-2xl">Bienvenido a TechStore</CardTitle>
+          <CardTitle className="text-2xl">Bienvenido a Yumi</CardTitle>
           <CardDescription>Inicia sesión o crea una cuenta para continuar</CardDescription>
         </CardHeader>
         <CardContent>

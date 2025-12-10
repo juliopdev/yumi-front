@@ -1,4 +1,4 @@
-# TechStore - E-commerce Moderno
+# YUMI - E-commerce Moderno
 
 E-commerce completo construido con React, TypeScript, y Tailwind CSS, integrado con API REST backend.
 
